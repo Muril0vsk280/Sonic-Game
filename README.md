@@ -10,7 +10,7 @@ Este repositório reúne a **evolução de um jogo do Sonic** desenvolvido duran
 
 ### Primeira versão do jogo
 
-* **Início do desenvolvimento:** `DD/MM/AAAA`
+* **Início do desenvolvimento:** `12/11/2025`
 * **Contexto:** Primeiros contatos com lógica de programação e JavaScript.
 * **Características:**
 
@@ -20,7 +20,7 @@ Este repositório reúne a **evolução de um jogo do Sonic** desenvolvido duran
 
 ### Versão refeita / evolução do projeto
 
-* **Início do redesenvolvimento:** `DD/MM/AAAA`
+* **Início do redesenvolvimento:** `15/01/2025`
 * **Contexto:** Etapa mais avançada do curso, com maior domínio dos conceitos.
 * **Melhorias aplicadas:**
 
