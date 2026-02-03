@@ -3,7 +3,7 @@
 ## Sobre o projeto
 
 Este repositório reúne a **evolução de um jogo do Sonic** desenvolvido durante o curso do **SENAC**, utilizando **HTML, CSS e JavaScript**. O objetivo principal é demonstrar o crescimento técnico ao longo do curso, comparando a primeira versão do jogo com a versão refeita posteriormente.
-
+ 
 ---
 
 ## Linha do tempo do desenvolvimento
